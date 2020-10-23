@@ -13,14 +13,13 @@ Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)...
 
 Framework  
 ![Spring-Cloud](https://img.shields.io/badge/-SpringCloud-000000?style=flat-square&logo=spring)
 ![Spring-Boot](https://img.shields.io/badge/-SpringBoot-000000?style=flat-square&logo=spring)
 ![Dubbo](https://img.shields.io/badge/-Dubbo-000000?style=flat-square&logo=alipay)
-![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)  
-...
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)...
 
 Tools  
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka)
@@ -31,12 +30,11 @@ Tools
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-...
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)...
 
 Others  
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)  
+![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)...
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=r-anybbo&layout=compact&line_height=35" />  
 
