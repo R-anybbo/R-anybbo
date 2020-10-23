@@ -1,8 +1,5 @@
 ## Hi there, I'm [Anybbo!](https://anybbo.com) 👋
 
-<br />
-<br />
-
 Hi, I'm Anybbo, a full stack developer from China.
 
 - 🔭 I’m currently working on Block chain.
@@ -39,11 +36,12 @@ Tools
 
 Others  
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
+![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)  
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=r-anybbo&layout=compact&line_height=35" />
 
 <img align="right" src="https://github-stat.alpaca.run/api?username=r-anybbo&show_icons=true&include_all_commits=true&line_height=35"/>
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=r-anybbo&layout=compact&line_height=35" />
 
 <!--
 **R-anybbo/R-anybbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
