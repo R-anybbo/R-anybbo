@@ -8,7 +8,7 @@ Hi, I'm Anybbo, a full stack developer from China.
 
 ## ⚡ Technologies
 
-Lanuage  
+Language  
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=c-sharp)
