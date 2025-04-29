@@ -1,4 +1,4 @@
-## Hi there, I'm [Anybbo!](https://anybbo.com) 👋
+## Hi there, I'm [BitJavis!](https://anybbo.com) 👋
 
 Hi, I'm Anybbo, a full stack developer from China.
 
